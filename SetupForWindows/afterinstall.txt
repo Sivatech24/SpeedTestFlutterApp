@@ -1,0 +1,19 @@
+Flutter Speed Test App - Welcome!
+
+Thank you for installing the Flutter Speed Test app! Here’s what you can do:
+
+Measure your internet download and upload speeds.
+
+View detailed network statistics.
+
+Check latency and jitter performance.
+
+Privacy Notice:
+
+This app does not collect personal data.
+
+All speed test results remain on your device.
+
+For support, feedback, or terms of service, visit [Your Website or Contact Info].
+
+Enjoy using Flutter Speed Test!

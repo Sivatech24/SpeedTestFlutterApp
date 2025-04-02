@@ -1,0 +1,13 @@
+Flutter Speed Test App - Pre-Installation Notice
+
+Before installing the Flutter Speed Test app, please note:
+
+This app requires access to your network connection to measure internet speed.
+
+No personal data is collected, stored, or shared.
+
+Ensure you have sufficient storage space on your device.
+
+By proceeding, you accept the terms of use and privacy policy.
+
+Do you want to continue with the installation?
